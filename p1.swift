@@ -1,4 +1,4 @@
-var n=6
+var n=5
 for i in 0...n-1{
   var j=n-i
   while j>1{
